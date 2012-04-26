@@ -2,12 +2,12 @@
 body {
          font-family: sans-serif;
          font-size:26px;
-         background: #4E00CC    ;
-         color: #55D9D2  ;
+         background: #453E41    ;
+         color: #FAAF00 ;
  }
  
  a {
- color:#DE6510;
+ color:#D2D665;
  }
  
        .nav  {
@@ -21,14 +21,14 @@ body {
   }          
  
        .content  {
-            height:10000px;
+            height:1500px;
             width:500px;
-            background:#4552D9;
+            background:#FAF2F5;
             margin-left:200px;
   }
         .about  {
-            height:10000px;
+            height:1500px;
             width:1000px;
-            background:#F00509;
+            background:#050505;
             margin-left:150px;
   }
